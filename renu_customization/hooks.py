@@ -5,6 +5,7 @@ app_description = "Based On Renu Customization"
 app_email = "omborse782@gmail.com"
 app_license = "mit"
 
+
 # Send non-GET requests for this app's endpoints as native `application/json`
 # bodies instead of form-encoded, per-key JSON-stringified values.
 use_json_request_body = True
